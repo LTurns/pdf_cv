@@ -42,6 +42,14 @@ h3 {
   font-size: 10px;
 }
 
+.contact_images {
+  padding: 5px;
+  background-color:  #DEEFEF;
+  font-size: 8px;
+  border-radius: 40%;
+  margin: 5px;
+}
+
 /* .c1_background {
   padding: 10
 

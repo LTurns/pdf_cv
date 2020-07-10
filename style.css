@@ -23,6 +23,10 @@ h3 {
   margin-top: 5px;
 }
 
+h5 {
+  font-size: 12px;
+}
+
 .c1_background, .c2_background, .c3_background  {
   background-color:  #EFF7F7;
   padding: 10px;

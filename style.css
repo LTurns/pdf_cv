@@ -1,6 +1,8 @@
 body {
   background-color: white;
-  margin: 20px;
+  margin: 10px;
+  padding-top: 40px;
+  margin-bottom: 10px;
 }
 
 /* .jumbotron {
@@ -50,13 +52,16 @@ h5 {
 
 .c1_background {
   background-image: url("./light_background.png");
+  height: 600px;
 }
 .c2_background {
   background-image: url("./light_background.png");
+  height: 600px;
 }
 
 .c3_background {
   background-image: url("./light_background.png");
+  height: 600px;
 }
 .statement {
   font-size: 9.5px;
@@ -87,7 +92,7 @@ h5 {
 
 .left_side_border {
   background-color: #c9e9f6;
-  padding: 3px;
+  height: 600px;
   border-radius: 10%;
   border: none;
   box-shadow: 10px -7px 50px -4px rgba(0.1,0.1,0.1,0.1);
@@ -97,18 +102,9 @@ h5 {
   background-color: #add8e6;
     border-radius: 10%;
     box-shadow: 10px -7px 50px -4px rgba(0.3,0.3,0.3,0.3);
-    padding: 20px;
+    padding: 40px;
 }
-/*
-.employment_text {
-  margin: 5px;
-  padding: 10px;
-} */
 
-/* .border {
-  background-color: #edffff;
-  padding: 5px; */
-}
 
 h2 {
   font: white;

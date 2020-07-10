@@ -24,13 +24,23 @@ h3 {
 }
 
 .c1_background, .c2_background, .c3_background  {
-  background-color:  #edffff;
+  background-color:  #EFF7F7;
   padding: 10px;
   border-radius: 9%;
   font-size: 10px;
   box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.2);
 }
 
+.tech_images {
+  text-align: center;
+}
+
+.centre_images {
+  padding: 10px;
+  border-radius: 10%;
+  background-color: #DEEFEF;
+  font-size: 10px;
+}
 
 /* .c1_background {
   padding: 10
@@ -44,9 +54,9 @@ h3 {
   margin: 5px;
 } */
 
-#left_side_border {
+.left_side_border {
   background-color: #c9e9f6;
-  padding: 5px;
+  padding: 10px;
   border-radius: 10%;
   border: none;
   box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.1);

@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Bitmap 2 instance 1":
+{
+	"frame": {"x":0,"y":0,"w":115,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":124},
+	"sourceSize": {"w":115,"h":124}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.0.29329",
+	"image": "swirl.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

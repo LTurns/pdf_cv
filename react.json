@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Bitmap 13 instance 1":
+{
+	"frame": {"x":0,"y":0,"w":312,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":300},
+	"sourceSize": {"w":312,"h":300}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.0.29329",
+	"image": "react.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

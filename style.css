@@ -34,20 +34,30 @@ h5 {
 
 .list {
   font-size: 9.5px;
-  background-color: #DEEFEF;
+  /* background-color: #DEEFEF; */
   padding: 10px;
   border-radius: 10%;
 }
 
 .c1_background, .c2_background, .c3_background  {
-  background-color:  #EFF7F7;
-  padding: 5px;
+  /* background-color:  #EFF7F7; */
+  /* padding: 5px; */
   border-radius: 9%;
   font-size: 9px;
-  margin:5px;
+  /* margin:5px; */
   box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.2);
 }
 
+.c1_background {
+  background-image: url("./light_background.png");
+}
+.c2_background {
+  background-image: url("./light_background.png");
+}
+
+.c3_background {
+  background-image: url("./light_background.png");
+}
 .statement {
   font-size: 9.5px;
 }

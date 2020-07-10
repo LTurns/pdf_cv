@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Bitmap 5 instance 1":
+{
+	"frame": {"x":0,"y":0,"w":1204,"h":2849},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1204,"h":2849},
+	"sourceSize": {"w":1204,"h":2849}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.0.29329",
+	"image": "strange_background.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

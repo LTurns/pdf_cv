@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"Bitmap 8 instance 1":
+{
+	"frame": {"x":0,"y":0,"w":526,"h":980},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":526,"h":980},
+	"sourceSize": {"w":526,"h":980}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.0.29329",
+	"image": "ligher_background.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #91BAD6;
   margin: 30px;
 }
 
@@ -18,6 +18,11 @@ h1 {
   margin-botom: 3px;
 }
 
+.email {
+  font-size: 9.5px;
+  padding: 5px;
+}
+
 h3 {
   font-size: 13px;
   margin-top: 5px;
@@ -25,6 +30,13 @@ h3 {
 
 h5 {
   font-size: 12px;
+}
+
+.list {
+  font-size: 8px;
+  background-color: #DEEFEF;
+  padding: 10px;
+  border-radius: 10%;
 }
 
 .c1_background, .c2_background, .c3_background  {
@@ -36,14 +48,19 @@ h5 {
   box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.2);
 }
 
+.statement {
+  font-size: 9.5px;
+}
+
 .tech_images {
   text-align: center;
-  font-size: 8px;
-  padding: 20px;
+  border-radius: 10%;
+  font-size: 10px; */
+  /* padding: 20px;
 }
 
 .centre_images {
-  padding: 10px;
+  padding: 5px;
   border-radius: 10%;
   background-color: #DEEFEF;
   font-size: 10px;
@@ -73,7 +90,7 @@ h5 {
 
 .left_side_border {
   background-color: #c9e9f6;
-  padding: 10px;
+  padding: 5px;
   border-radius: 10%;
   border: none;
   box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.1);
@@ -93,17 +110,17 @@ h5 {
   background-color: #add8e6;
     border-radius: 10%;
     box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.3);
-    padding: 20px;
+    padding: 10px;
 }
-
+/*
 .employment_text {
   margin: 5px;
   padding: 10px;
-}
+} */
 
-.border {
+/* .border {
   background-color: #edffff;
-  padding: 5px;
+  padding: 5px; */
 }
 
 h2 {

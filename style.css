@@ -1,23 +1,13 @@
 body {
   background-color: white;
-  margin: 10px;
-  padding-top: 10px;
+  margin-top: 50px;
+  /* padding-top: 10px; */
   margin-bottom: 10px;
 }
 
-/* .jumbotron {
-  background-color:  #edffff;
-  padding-top: 50px;
-  border-radius: 10%;
-  border: none;
-  margin: 10px;
-  font-size: 10px;
-  padding: 25px;
-} */
-
 h1 {
   font-size: 25px;
-  margin-botom: 3px;
+  /* margin-bottom: 3px; */
 }
 
 .email {
@@ -36,33 +26,30 @@ h5 {
 
 .list {
   font-size: 9.5px;
-  /* background-color: #DEEFEF; */
   padding: 10px;
   border-radius: 10%;
 }
 
 .c1_background, .c2_background, .c3_background  {
-  /* background-color:  #EFF7F7; */
-  /* padding: 5px; */
   border-radius: 9%;
   font-size: 9px;
-  /* margin:5px; */
   box-shadow: 10px -7px 50px -4px rgba(0,0,0,0.2);
+  height: 620px;
+  background-image: url("./images/light_background.png");
 }
-
+/* 
 .c1_background {
-  background-image: url("./light_background.png");
+  b
   height: 650px;
 }
 .c2_background {
-  background-image: url("./light_background.png");
+  background-image: url("./images/light_background.png");
   height: 650px;
 }
 
 .c3_background {
-  background-image: url("./light_background.png");
-  height: 650px;
-}
+  background-image: url("./images/light_background.png");
+} */
 .statement {
   font-size: 9.5px;
 }
@@ -102,8 +89,8 @@ h5 {
   background-color: #add8e6;
     border-radius: 10%;
     box-shadow: 10px -7px 50px -4px rgba(0.3,0.3,0.3,0.3);
-    padding: 40px;
-    height: 700px;
+    padding: 20px;
+    padding-bottom: 40px;
 }
 
 

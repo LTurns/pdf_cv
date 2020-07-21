@@ -10,6 +10,8 @@ the site below if you are interested!
 
 Please refer <a href="https://trusting-minsky-2135b4.netlify.app/">here</a> to see my CV.
 
+Netlify Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/c00061f5-12ac-4777-94e1-8cba57bcae06/deploy-status)](https://app.netlify.com/sites/trusting-minsky-2135b4/deploys)
+
 ### Tech Stack ###
 
 * Bootstrap - to enable responsive design 
